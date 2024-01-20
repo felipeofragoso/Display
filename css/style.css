@@ -1,0 +1,53 @@
+body {
+  font-family: Arial;
+  margin: 50px;
+}
+h1 {
+  text-align: center;
+}
+
+h2 span {
+  color: white;
+}
+
+h2 {
+  color: #febe01;
+  margin: 0px;
+}
+
+p {
+  color: #b2b2b2;
+}
+
+p span {
+  color: #febe01;
+}
+
+.item {
+  margin: 30px;
+  border-radius: 4px;
+  background-color: #111;
+  padding: 40px;
+  margin: 40px;
+}
+
+a {
+  color: #332200;
+  background-color: #febe01;
+  width: 120px;
+  text-align: center;
+  /* padding-left: 10px;
+  padding-top: 10px; 
+  padding-right: 2%; */
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.botao {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #febe01;
+  border-radius: 4px;
+  color: #320;
+  text-decoration: none;
+}
